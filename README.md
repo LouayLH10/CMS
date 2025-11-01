@@ -32,8 +32,8 @@ Il inclut la gestion complète du contenu (posts, catégories, tags, auteurs), l
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/ton-nom-utilisateur/ton-projet-backend.git
-cd ton-projet-backend
+git clone https://github.com/LouayLH10/CMS.git
+cd CMS
 ```
  ### 2. Installer les dépendances
  ```bash
